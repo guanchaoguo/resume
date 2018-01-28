@@ -246,13 +246,3 @@ osta咖啡的h5穿越小游戏是一个H5人物穿越互动游戏， costa咖啡
 ### 部队服役 _2013 - 2015_
 
 武警_|_大专
-
-[
-
-打开Boss直聘，与官朝国沟通
-
-](https://m.zhipin.com/d/v2/?type=ck&pkn=show-geek&sid=self)
-
-Ta的其他求职意向
-
-![](./BOSS直聘_files/share_02.png)
