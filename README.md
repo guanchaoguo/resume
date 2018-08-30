@@ -127,6 +127,7 @@
     - 数据库相关：MySQL/Redis/Mongo
     - 数据处理相关：awk/kafka/hadoop/eslasticsearch
     - 中间件相关：haproxy/360atlas/RabbitMQ/zookeeper
+    - 网络协议相关：tcp/http/socket/rpc
     - 版本管理、文档和自动化部署工具：Svn/Git/Composer
     - 单元测试：UnitTest/PHPUnit/postman
     - 开放平台：MailGrid/云片/微信应用开发
