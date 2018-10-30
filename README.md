@@ -17,6 +17,29 @@
      - 期望城市：武汉
 
 ---
+## 技能清单
+
+    - Web开发：golang/PHP/html/css3/javascript
+    - Web框架：beego/iris/Gin/Lavaral/ThinkPHP
+    - 数据库相关：MySQL/Redis/Mongo
+    - 数据处理相关：awk/kafka/hadoop/eslasticsearch
+    - 中间件相关：haproxy/360atlas/RabbitMQ/zookeeper
+    - 网络协议相关：tcp/http/socket/rpc
+    - 版本管理、文档和自动化部署工具：Svn/Git/Composer
+    - 单元测试：UnitTest/PHPUnit/postman
+    - 开放平台：MailGrid/云片/微信应用开发
+
+---
+
+## 参考技能关键字
+    - php  golang   python   lua  shell web    java
+    - mysql   mangodb   redis   memcache  etcd  influxdb    oracle  mariadb  eslasticsearch
+    - beego   iris   gin   Laravel   thinkphp  yii   ci  workerman  swoole
+    - zookeeper   consul  haproxy   360atlas RabbitMQ kafka HDFS hadoop Flume kafka
+    - nginx   LVS   keepalive  fastcgi linux supervisor
+    - TCP   http   https   rpc
+
+---
 
 ## 工作经历
 
@@ -183,29 +206,6 @@
         3. 慈铭体检微信h5大转盘小游戏项目
 
 
-
----
-## 技能清单
-
-    - Web开发：golang/PHP/html/css3/javascript
-    - Web框架：beego/iris/Gin/Lavaral/ThinkPHP
-    - 数据库相关：MySQL/Redis/Mongo
-    - 数据处理相关：awk/kafka/hadoop/eslasticsearch
-    - 中间件相关：haproxy/360atlas/RabbitMQ/zookeeper
-    - 网络协议相关：tcp/http/socket/rpc
-    - 版本管理、文档和自动化部署工具：Svn/Git/Composer
-    - 单元测试：UnitTest/PHPUnit/postman
-    - 开放平台：MailGrid/云片/微信应用开发
-
----
-
-## 参考技能关键字
-    - php  golang   python   lua  shell web    java
-    - mysql   mangodb   redis   memcache  etcd  influxdb    oracle  mariadb  eslasticsearch
-    - beego   iris   gin   Laravel   thinkphp  yii   ci  workerman  swoole
-    - zookeeper   consul  haproxy   360atlas RabbitMQ kafka HDFS hadoop Flume kafka
-    - nginx   LVS   keepalive  fastcgi linux supervisor
-    - TCP   http   https   rpc
 
 ---
 
