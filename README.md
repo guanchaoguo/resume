@@ -12,7 +12,7 @@
      - 工作年限：4年
      - Github：http://github.com/guanchaoguo
 
-     - 期望职位：golang工程师，系统架构师，应用架构师
+     - 期望职位：golang/PHP工程师，系统架构师，应用架构师
      - 期望薪资：税前月薪22k~30k，特别喜欢的公司可例外
      - 期望城市：武汉
 
