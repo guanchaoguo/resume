@@ -1,21 +1,19 @@
 ## 联系方式
     - 手机：17665305038
-    - Email：guanchaogu@qq.com
-    - QQ/微信号：guanchaoguo0
+    - Email：guanchaoguo@qq.com
+    - QQ/微信号：771668687/guanchaoguo0
 
 ---
 
 ## 个人信息
 
      - 官朝国/男/1990
-     - 本科/武汉科技大学计算机系
+     - 武汉科技大学
      - 工作年限：4年
      - Github：http://github.com/guanchaoguo
 
      - 期望职位：golang/PHP工程师，系统架构师，应用架构师
      - 期望薪资：税前月薪18k~30k，特别喜欢的公司可例外
-     - 期望城市：武汉
-
 ---
 ## 技能清单
 
