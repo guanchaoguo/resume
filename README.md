@@ -16,29 +16,16 @@
      - 期望薪资：税前月薪18k~30k，特别喜欢的公司可例外
 ---
 ## 技能清单
-
-    - Web开发：golang/PHP/html/css3/javascript
-    - Web框架：beego/iris/Gin/Lavaral/ThinkPHP/yaf/phalcon
-    - 数据库相关：MySQL/Redis/Mongo
-    - 数据处理相关：awk/kafka/hadoop/eslasticsearch
-    - 中间件相关：haproxy/360atlas/RabbitMQ/zookeeper
-    - 网络协议相关：tcp/http/socket/rpc
-    - 版本管理、文档和自动化部署工具：Svn/Git/Composer/npm
-    - 单元测试：UnitTest/PHPUnit/postman
-    - 开放平台：MailGrid/云片/微信应用开发
-
----
-
-## 参考技能关键字
-    - php  golang   python   lua  shell web    java
-    - mysql   mangodb   redis   memcache  etcd  influxdb    oracle  mariadb  eslasticsearch
-    - beego   iris   gin   Laravel   thinkphp  yii   ci  workerman  swoole
-    - zookeeper   consul  haproxy   360atlas RabbitMQ kafka HDFS hadoop Flume kafka
-    - nginx   LVS   keepalive  fastcgi linux supervisor
-    - TCP   http   https   rpc
-
----
-
+    1. 精通LNAMP下基于php的web开发和Linux的golang的web开发
+    2.熟练使用PHP语言，具备OOP编程思想，精通面向对象程序设计及设计模式    
+    3.熟悉网络协议(TCP/IP,HTTP),能够熟练进行socket网络编程,具有很强的网络问题排查能力
+    4.精通LNMP架构，精通Mysql的性能优化，有高并发高负载下的开发经验   
+    5.精通Memcached/Redis/Mongo的查询优化和存储优化、PHP缓存技术、静态化设计
+    6.熟悉和理解多个WEB框架，如：CI,ThinkPHP,Lravavel,Gin,iris等
+    7.熟悉微信公众号、支付、小程序接口开发和第三方服务的交互
+    8.了解分布式系统开发要点, 较强的逻辑抽象能力以及团队协作能力，抗压能力强 
+    9.了解离线数据处理、分布式计算、实时计算、数据仓库、数据挖掘系统的相关知识
+    
 ## 工作经历
 
 ### 武汉链世界 （ 2018年4月 ~ 2018年11月）
@@ -122,7 +109,6 @@
 ### 北京微播易道公司 （ 2014年10月 ~ 2016年3月 ）
 
     项目名称: 指尖广告DSP管理平台
-    职位：后端开发工程师
     项目描述:
         指尖广告DSP管理平台是一个管理广告主，流量主，广告位，广告素材的管理平台 。通过现有的和广告主的广告位来吸引流量主投放
         广告，并精确控制流量从而保证广告的投放达到预期的效果，同时精确分时统计流量并做出相应的精准用户推荐的广告
